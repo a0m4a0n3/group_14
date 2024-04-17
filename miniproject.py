@@ -45,10 +45,10 @@ def get_coordinates(city, postal_code, country="GB"):  # Country code is optiona
 def main():
     # MySQL connection configuration
     mysql_config = {
-        'host': 'localhost',
-        'user': 'root',
-        'password': '',
-        'database': 'walmart'
+        'host': 'sql6.freesqldatabase.com',
+        'user': 'sql6699829',
+        'password': '1Ys1jF7Nfv',
+        'database': 'sql6699829'
     }
 
     # Establish MySQL connection
