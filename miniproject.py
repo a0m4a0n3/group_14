@@ -46,9 +46,9 @@ def main():
     # MySQL connection configuration
     mysql_config = {
         'host': 'sql6.freesqldatabase.com',
-        'user': 'sql6699829',
-        'password': '1Ys1jF7Nfv',
-        'database': 'sql6699829'
+        'user': 'sql6703341',
+        'password': 'F2pqbeejSU',
+        'database': 'sql6703341'
     }
 
     # Establish MySQL connection
